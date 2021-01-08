@@ -1,5 +1,5 @@
 # RecycliQ-Deep-Learning
-**Masters Project**
+**Masters Project: A Deep Learning Framework to Encourage the Recycling of Waste**
 
 - The python code for developing the ``deep learning models``
 
