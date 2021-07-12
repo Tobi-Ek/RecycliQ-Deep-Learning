@@ -3,7 +3,7 @@
 
 - The python code for developing the ``deep learning models``
 
-- **Cleaned Dataset**: https://drive.google.com/file/d/1H1eXAd4lR82q_mK41WEyER-IOE2bg5mo/view?usp=sharing
+- **WASTENET Dataset**: https://drive.google.com/file/d/1H1eXAd4lR82q_mK41WEyER-IOE2bg5mo/view?usp=sharing
 
 - The ``Adobe Xd`` file for the mobile app's UI/UX design
 
